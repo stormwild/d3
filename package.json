@@ -33,7 +33,7 @@
     "json2module": "0.0",
     "package-preamble": "0.1",
     "rimraf": "2",
-    "rollup": "^0.45.2",
+    "rollup": "^3.29.5",
     "rollup-plugin-ascii": "0.0",
     "rollup-plugin-node-resolve": "3",
     "tape": "^4.7.0",
